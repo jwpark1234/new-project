@@ -13,9 +13,9 @@
 **공통 기술 스택**
 - 형상관리: GitHub
 - 프론트: Next.js
-- 배포: Vercel
+- 배포: Github Actions + docker
 - 인증: JWT
-- 백엔드: Spring Boot (JPA 포함) 또는 Flask, Fast API
+- 백엔드: Nest.js
 - DB: PostgreSQL
 - 캐시: Redis
 
